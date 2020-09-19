@@ -1,0 +1,26 @@
+***
+
+Results_cfos1_inj1--> 50 cells
+Results_cfos1_inj2--> 50 cells
+Results_cfos1_inj3--> 50 cells
+
+Results_cfos1_non_inj1--> 150 cells
+
+
+***
+
+Results_cfos2_inj1--> 50 cells
+Results_cfos2_inj2--> 50 cells
+
+Results_cfos2_non_inj1--> 100 cells
+
+
+***
+
+Results_cfos4_inj1--> 70 cells
+Results_cfos4_inj2--> 50 cells
+Results_cfos4_inj3--> 30 cells
+
+Results_cfos4_non_inj1--> 50 cells
+Results_cfos4_non_inj2--> 100 cells
+

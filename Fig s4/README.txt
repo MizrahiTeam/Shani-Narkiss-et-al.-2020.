@@ -1,0 +1,1 @@
+In order to plot all panels in this figure, follow instructions for figure 4, but choose anesthetized mice (“exp/cont”) as your group of interest (by commenting/uncommenting the relevant parts in the code)

@@ -1,0 +1,1 @@
+In order to plot all panels in this figure, follow instructions for figures 2/3, but choose “cno_cont” as your group of interest (by commenting/uncommenting the relevant parts in the code)
