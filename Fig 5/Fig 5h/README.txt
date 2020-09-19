@@ -1,0 +1,1 @@
+In order to see pca analysis for the time lapse experiment, go to the instructions in Fig 4 and chose timelapse1/2/3 groups in the code provided there
